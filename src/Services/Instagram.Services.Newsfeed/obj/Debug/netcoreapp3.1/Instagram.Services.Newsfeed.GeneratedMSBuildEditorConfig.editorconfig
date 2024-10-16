@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = Instagram.Services.Newsfeed
+build_property.ProjectDir = D:\Download\Instagram-clone-AspNetCore-React-Microservice (copy)\src\Services\Instagram.Services.Newsfeed\

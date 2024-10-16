@@ -1,0 +1,5 @@
+is_global = true
+build_property.RootNamespace = Instagram.Services.Newsfeed
+build_property.ProjectDir = /home/uzumi/Instagram-clone-AspNetCore-React-Microservice/src/Services/Instagram.Services.Newsfeed/
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 

@@ -1,0 +1,11 @@
+/home/uzumi/Instagram-clone-AspNetCore-React-Microservice/src/Services/Instagram.Common/bin/Release/netstandard2.0/Instagram.Common.deps.json
+/home/uzumi/Instagram-clone-AspNetCore-React-Microservice/src/Services/Instagram.Common/bin/Release/netstandard2.0/Instagram.Common.dll
+/home/uzumi/Instagram-clone-AspNetCore-React-Microservice/src/Services/Instagram.Common/bin/Release/netstandard2.0/Instagram.Common.pdb
+/home/uzumi/Instagram-clone-AspNetCore-React-Microservice/src/Services/Instagram.Common/obj/Release/netstandard2.0/Instagram.Common.csproj.AssemblyReference.cache
+/home/uzumi/Instagram-clone-AspNetCore-React-Microservice/src/Services/Instagram.Common/obj/Release/netstandard2.0/Instagram.Common.GeneratedMSBuildEditorConfig.editorconfig
+/home/uzumi/Instagram-clone-AspNetCore-React-Microservice/src/Services/Instagram.Common/obj/Release/netstandard2.0/Instagram.Common.AssemblyInfoInputs.cache
+/home/uzumi/Instagram-clone-AspNetCore-React-Microservice/src/Services/Instagram.Common/obj/Release/netstandard2.0/Instagram.Common.AssemblyInfo.cs
+/home/uzumi/Instagram-clone-AspNetCore-React-Microservice/src/Services/Instagram.Common/obj/Release/netstandard2.0/Instagram.Common.csproj.CoreCompileInputs.cache
+/home/uzumi/Instagram-clone-AspNetCore-React-Microservice/src/Services/Instagram.Common/obj/Release/netstandard2.0/Instagram.Common.sourcelink.json
+/home/uzumi/Instagram-clone-AspNetCore-React-Microservice/src/Services/Instagram.Common/obj/Release/netstandard2.0/Instagram.Common.dll
+/home/uzumi/Instagram-clone-AspNetCore-React-Microservice/src/Services/Instagram.Common/obj/Release/netstandard2.0/Instagram.Common.pdb
